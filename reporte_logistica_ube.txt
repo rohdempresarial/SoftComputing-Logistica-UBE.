@@ -1,0 +1,20 @@
+--- PROYECTO INTEGRADOR UBE ---
+Clientes Atendidos: 13
+Distancia Inicial: 459.48 km
+Distancia Final: 376.25 km
+Eficiencia Lograda: 18.1%
+
+Itinerario:
+Punto 1: X=46.61, Y=19.84
+Punto 2: X=52.34, Y=8.40
+Punto 3: X=49.45, Y=5.52
+Punto 4: X=36.99, Y=1.08
+Punto 5: X=42.16, Y=22.81
+Punto 6: X=83.02, Y=39.41
+Punto 7: X=68.12, Y=41.52
+Punto 8: X=20.01, Y=31.94
+Punto 9: X=6.98, Y=48.99
+Punto 10: X=35.99, Y=75.55
+Punto 11: X=67.27, Y=79.37
+Punto 12: X=32.59, Y=46.18
+Punto 13: X=15.04, Y=8.33

@@ -1,0 +1,32 @@
+--- REPORTE TÉCNICO SOFTCOMPUTING ---
+Responsable: Grupo #6
+Empresa: SoftEmpresarial
+-----------------------------------
+Clientes detectados: 21
+Distancia Inicial: 1176.98 km
+Distancia Óptima: 570.21 km
+Mejora de Eficiencia: 51.55%
+Estado: RUTA OPTIMIZADA
+
+DETALLE DE RUTA:
+Visita 1: (88.14, 87.71)
+Visita 2: (83.07, 86.61)
+Visita 3: (37.43, 86.10)
+Visita 4: (39.40, 76.97)
+Visita 5: (72.64, 81.44)
+Visita 6: (57.51, 70.48)
+Visita 7: (21.87, 28.04)
+Visita 8: (27.07, 52.22)
+Visita 9: (6.64, 62.02)
+Visita 10: (19.95, 97.95)
+Visita 11: (32.28, 91.14)
+Visita 12: (30.52, 78.03)
+Visita 13: (7.75, 54.33)
+Visita 14: (6.25, 38.66)
+Visita 15: (6.87, 17.17)
+Visita 16: (1.09, 20.41)
+Visita 17: (30.18, 49.72)
+Visita 18: (37.41, 35.82)
+Visita 19: (51.12, 37.71)
+Visita 20: (58.47, 20.27)
+Visita 21: (93.15, 3.47)
